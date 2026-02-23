@@ -1,9 +1,8 @@
-⚡ About this organization
-===========
+## ⚡ About this organization
+
 This is simply the place where I host my builds for convenience.
 
-📊 Statistics
-===========
+## 📊 Statistics
 
 | Project | Total Downloads | Status |
 | :--- | :--- | :--- |
